@@ -1,0 +1,34 @@
+h1.centrado{
+    text-align: center;
+    color: brown;
+}
+html{
+    background-color: cornsilk;
+}
+p.derecha{
+    float: right;
+}    
+img.derecha{
+    float: right;
+}
+p.carta{
+    padding-left: 43px;
+}
+p.cafe{
+    float: center;
+    text-align: center;
+}
+p.contacto{
+    vertical-align: text-;
+    float: right;
+    padding-bottom: 43px;
+}
+p.red{
+    color: brown;
+}
+span.yellow{
+    color: yellow;
+}
+span.red{
+    color: red;
+}
